@@ -8,12 +8,12 @@ import java.util.Set;
 /**
  * Created by kash on 29.06.2017.
  */
-@ApplicationPath("/")
+@ApplicationPath("/rest")
 public class IncubatorApplication extends Application {
-    @Override
+/*  @Override
     public Set<Class<?>> getClasses() {
         HashSet h = new HashSet<Class<?>>();
         h.add( IncubationDataController.class );
         return h;
-    }
+    }*/
 }
