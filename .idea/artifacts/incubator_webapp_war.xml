@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="incubator-webapp:war">
-    <output-path>$PROJECT_DIR$/incubator-webapp/target</output-path>
-    <root id="archive" name="incubator-webapp-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="incubator-webapp:war exploded" />
-    </root>
-  </artifact>
-</component>
