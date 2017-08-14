@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="incubator-restdataprovider:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/incubator_restdataprovider_ejb_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="incubator-restdataprovider" />
+      <element id="javaee-facet-resources" facet="incubator-restdataprovider/ejb/EJB" />
+      <element id="jpa-descriptors" facet="incubator-restdataprovider/jpa/JPA" />
+    </root>
+  </artifact>
+</component>

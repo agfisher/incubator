@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/incubator-dataloader/incubator-dataloader.iml" filepath="$PROJECT_DIR$/incubator-dataloader/incubator-dataloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incubator-dbadmin/incubator-dbadmin.iml" filepath="$PROJECT_DIR$/incubator-dbadmin/incubator-dbadmin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/incubator-reserv.iml" filepath="$PROJECT_DIR$/.idea/incubator-reserv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incubator-restdataprovider/incubator-restdataprovider.iml" filepath="$PROJECT_DIR$/incubator-restdataprovider/incubator-restdataprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/incubator-webapp/incubator-webapp.iml" filepath="$PROJECT_DIR$/incubator-webapp/incubator-webapp.iml" />
     </modules>
   </component>
