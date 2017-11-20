@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources PUBLIC
+        "-//GlassFish.org//DTD GlassFish Application Server 3.1
+        Resource Definitions//EN"
+        "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
+<resources>
+    <jdbc-resource pool-name="postgresPool"
+                   jndi-name="jdbc/postgresPool"/>
+    <jdbc-connection-pool name="postgresPool"
+                          res-type="java.sql.Driver"
+                          driver-classname="org.postgresql.Driver">
+        <property name="user" value="postgres"/>
+        <property name="password" value="postgres"/>
+        <property name="url" value="jdbc:postgresql://localhost:5432/incubator"/>
+    </jdbc-connection-pool>
+</resources>
